@@ -1,0 +1,1001 @@
+prompt_id,prompt_text,ground_truth
+1,Convert 'user_account_balance' to camelCase.,userAccountBalance
+2,Rewrite the string 'total_item_count' in camelCase format.,totalItemCount
+3,Transform 'first_name' into camelCase style.,firstName
+4,Change the variable name 'last_name' to camelCase.,lastName
+5,What is the camelCase equivalent of 'is_active'?,isActive
+6,Please convert 'has_children' to camelCase.,hasChildren
+7,How do you write 'maximum_speed' in camelCase?,maximumSpeed
+8,Convert the string 'product_quantity' to camelCase format.,productQuantity
+9,Format 'order_status' as a camelCase identifier.,orderStatus
+10,Transform the given variable name 'email_address' into camelCase.,emailAddress
+11,Convert 'amber' to camelCase.,amber
+12,Rewrite the string 'amber_little_happy' in camelCase format.,amberLittleHappy
+13,Transform 'amber_local' into camelCase style.,amberLocal
+14,What is the camelCase equivalent of 'amber_rough'?,amberRough
+15,Please convert 'ancient' to camelCase.,ancient
+16,Change 'ancient_lunch' into camelCase.,ancientLunch
+17,How would you write 'ancient_stream' in camelCase?,ancientStream
+18,Give the camelCase version of 'ancient_violet'.,ancientViolet
+19,Format 'ancient_warm' as a camelCase identifier.,ancientWarm
+20,Turn the snake_case phrase 'artist_friend_mirror_culture' into camelCase.,artistFriendMirrorCulture
+21,Convert 'artist_grand' to camelCase.,artistGrand
+22,Rewrite the string 'artist_little_napkin_apple' in camelCase format.,artistLittleNapkinApple
+23,Transform 'autumn' into camelCase style.,autumn
+24,What is the camelCase equivalent of 'autumn_hockey'?,autumnHockey
+25,Please convert 'autumn_ribbon' to camelCase.,autumnRibbon
+26,Change 'baker_north' into camelCase.,bakerNorth
+27,How would you write 'baker_orchard_story' in camelCase?,bakerOrchardStory
+28,Give the camelCase version of 'baker_pumpkin_chess_compass'.,bakerPumpkinChessCompass
+29,Format 'bitter_blossom_daily' as a camelCase identifier.,bitterBlossomDaily
+30,Turn the snake_case phrase 'blanket_palette' into camelCase.,blanketPalette
+31,Convert 'blue' to camelCase.,blue
+32,Rewrite the string 'blue_baker_golden' in camelCase format.,blueBakerGolden
+33,Transform 'blue_petal' into camelCase style.,bluePetal
+34,What is the camelCase equivalent of 'brave_cherry_story'?,braveCherryStory
+35,Please convert 'brave_starlight_modern' to camelCase.,braveStarlightModern
+36,Change 'breakfast' into camelCase.,breakfast
+37,How would you write 'breakfast_cedar' in camelCase?,breakfastCedar
+38,Give the camelCase version of 'breakfast_family'.,breakfastFamily
+39,Format 'breeze_football' as a camelCase identifier.,breezeFootball
+40,Turn the snake_case phrase 'button_blanket' into camelCase.,buttonBlanket
+41,Convert 'button_curious' to camelCase.,buttonCurious
+42,Rewrite the string 'button_hockey' in camelCase format.,buttonHockey
+43,Transform 'button_orange' into camelCase style.,buttonOrange
+44,What is the camelCase equivalent of 'button_palette'?,buttonPalette
+45,Please convert 'button_spring' to camelCase.,buttonSpring
+46,Change 'calendar_comet_friend' into camelCase.,calendarCometFriend
+47,How would you write 'calendar_jacket' in camelCase?,calendarJacket
+48,Give the camelCase version of 'camera'.,camera
+49,Format 'camera_early' as a camelCase identifier.,cameraEarly
+50,Turn the snake_case phrase 'camera_museum_family' into camelCase.,cameraMuseumFamily
+51,Convert 'camera_sunset' to camelCase.,cameraSunset
+52,Rewrite the string 'camera_teapot_family_key' in camelCase format.,cameraTeapotFamilyKey
+53,Transform 'camera_yoga' into camelCase style.,cameraYoga
+54,What is the camelCase equivalent of 'candle'?,candle
+55,Please convert 'candle_baker_salty' to camelCase.,candleBakerSalty
+56,Change 'candle_summer' into camelCase.,candleSummer
+57,How would you write 'canvas' in camelCase?,canvas
+58,Give the camelCase version of 'canvas_pocket_coral_sunshine'.,canvasPocketCoralSunshine
+59,Format 'canvas_smooth_comet' as a camelCase identifier.,canvasSmoothComet
+60,Turn the snake_case phrase 'captain_breakfast' into camelCase.,captainBreakfast
+61,Convert 'captain_language' to camelCase.,captainLanguage
+62,Rewrite the string 'captain_yellow_copper' in camelCase format.,captainYellowCopper
+63,Transform 'castle' into camelCase style.,castle
+64,What is the camelCase equivalent of 'castle_blue_suitcase'?,castleBlueSuitcase
+65,Please convert 'castle_final' to camelCase.,castleFinal
+66,Change 'castle_glacier' into camelCase.,castleGlacier
+67,How would you write 'castle_golden_sunrise_sunshine' in camelCase?,castleGoldenSunriseSunshine
+68,Give the camelCase version of 'cedar'.,cedar
+69,Format 'cedar_patient' as a camelCase identifier.,cedarPatient
+70,Turn the snake_case phrase 'central' into camelCase.,central
+71,Convert 'central_canyon_breeze_harbor' to camelCase.,centralCanyonBreezeHarbor
+72,Rewrite the string 'central_forest_doctor_dance' in camelCase format.,centralForestDoctorDance
+73,Transform 'chapter_camera_cherry_coffee' into camelCase style.,chapterCameraCherryCoffee
+74,What is the camelCase equivalent of 'chapter_castle_palette'?,chapterCastlePalette
+75,Please convert 'chapter_garden_eclipse' to camelCase.,chapterGardenEclipse
+76,Change 'chapter_marble_distant' into camelCase.,chapterMarbleDistant
+77,How would you write 'chapter_mountain' in camelCase?,chapterMountain
+78,Give the camelCase version of 'cherry_cinnamon_ocean'.,cherryCinnamonOcean
+79,Format 'cherry_cookie' as a camelCase identifier.,cherryCookie
+80,Turn the snake_case phrase 'cherry_waterfall_grand' into camelCase.,cherryWaterfallGrand
+81,Convert 'chess_castle' to camelCase.,chessCastle
+82,Rewrite the string 'cinnamon_baker' in camelCase format.,cinnamonBaker
+83,Transform 'cinnamon_mountain_whisper_teacher' into camelCase style.,cinnamonMountainWhisperTeacher
+84,What is the camelCase equivalent of 'cinnamon_neighbor'?,cinnamonNeighbor
+85,Please convert 'clock_ancient_little_ticket' to camelCase.,clockAncientLittleTicket
+86,Change 'clock_rain_spring' into camelCase.,clockRainSpring
+87,How would you write 'cloud_east_ginger' in camelCase?,cloudEastGinger
+88,Give the camelCase version of 'coast_copper_river_little'.,coastCopperRiverLittle
+89,Format 'coffee' as a camelCase identifier.,coffee
+90,Turn the snake_case phrase 'coffee_blossom' into camelCase.,coffeeBlossom
+91,Convert 'coffee_market_flower_ocean' to camelCase.,coffeeMarketFlowerOcean
+92,Rewrite the string 'comet_cricket_compass' in camelCase format.,cometCricketCompass
+93,Transform 'comet_pillow' into camelCase style.,cometPillow
+94,What is the camelCase equivalent of 'comet_rough_galaxy'?,cometRoughGalaxy
+95,Please convert 'compass_final_ancient' to camelCase.,compassFinalAncient
+96,Change 'cool_breakfast' into camelCase.,coolBreakfast
+97,How would you write 'cool_guitar_letter' in camelCase?,coolGuitarLetter
+98,Give the camelCase version of 'copper'.,copper
+99,Format 'copper_distant' as a camelCase identifier.,copperDistant
+100,Turn the snake_case phrase 'copper_grand_blanket_wisdom' into camelCase.,copperGrandBlanketWisdom
+101,Convert 'copper_lunch_south' to camelCase.,copperLunchSouth
+102,Rewrite the string 'coral' in camelCase format.,coral
+103,Transform 'coral_autumn' into camelCase style.,coralAutumn
+104,What is the camelCase equivalent of 'coral_rainbow_little'?,coralRainbowLittle
+105,Please convert 'cozy' to camelCase.,cozy
+106,Change 'cozy_jacket_crisp' into camelCase.,cozyJacketCrisp
+107,How would you write 'cozy_west' in camelCase?,cozyWest
+108,Give the camelCase version of 'cricket'.,cricket
+109,Format 'cricket_recipe' as a camelCase identifier.,cricketRecipe
+110,Turn the snake_case phrase 'crisp' into camelCase.,crisp
+111,Convert 'crisp_daily' to camelCase.,crispDaily
+112,Rewrite the string 'crisp_dinner_waffle' in camelCase format.,crispDinnerWaffle
+113,Transform 'crystal_harbor' into camelCase style.,crystalHarbor
+114,What is the camelCase equivalent of 'culture_apple_midnight'?,cultureAppleMidnight
+115,Please convert 'curious_jacket_history_local' to camelCase.,curiousJacketHistoryLocal
+116,Change 'curious_teapot_notebook' into camelCase.,curiousTeapotNotebook
+117,How would you write 'cycling_apple_dinner_petal' in camelCase?,cyclingAppleDinnerPetal
+118,Give the camelCase version of 'cycling_final_ginger'.,cyclingFinalGinger
+119,Format 'cycling_lantern' as a camelCase identifier.,cyclingLantern
+120,Turn the snake_case phrase 'cycling_story_velvet_scarlet' into camelCase.,cyclingStoryVelvetScarlet
+121,Convert 'daily_breeze_theater_guitar' to camelCase.,dailyBreezeTheaterGuitar
+122,Rewrite the string 'daily_lucky_language' in camelCase format.,dailyLuckyLanguage
+123,Transform 'daily_velvet' into camelCase style.,dailyVelvet
+124,What is the camelCase equivalent of 'daily_velvet_apple'?,dailyVelvetApple
+125,Please convert 'dance' to camelCase.,dance
+126,Change 'dance_ancient' into camelCase.,danceAncient
+127,How would you write 'dance_mirror_sunrise' in camelCase?,danceMirrorSunrise
+128,Give the camelCase version of 'dancer_simple_local'.,dancerSimpleLocal
+129,Format 'dancer_table' as a camelCase identifier.,dancerTable
+130,Turn the snake_case phrase 'desert_kitchen_lantern' into camelCase.,desertKitchenLantern
+131,Convert 'desert_quiet_festival' to camelCase.,desertQuietFestival
+132,Rewrite the string 'dessert' in camelCase format.,dessert
+133,Transform 'dessert_midnight_early' into camelCase style.,dessertMidnightEarly
+134,What is the camelCase equivalent of 'diamond_cozy'?,diamondCozy
+135,Please convert 'diamond_kitchen' to camelCase.,diamondKitchen
+136,Change 'diamond_purple_orange' into camelCase.,diamondPurpleOrange
+137,How would you write 'diary_dancer' in camelCase?,diaryDancer
+138,Give the camelCase version of 'diary_melody_station_little'.,diaryMelodyStationLittle
+139,Format 'diary_orange' as a camelCase identifier.,diaryOrange
+140,Turn the snake_case phrase 'diary_wisdom' into camelCase.,diaryWisdom
+141,Convert 'dinner_culture_blue' to camelCase.,dinnerCultureBlue
+142,Rewrite the string 'dinner_friend_early' in camelCase format.,dinnerFriendEarly
+143,Transform 'dinner_sweet_sunset_coral' into camelCase style.,dinnerSweetSunsetCoral
+144,What is the camelCase equivalent of 'dinner_tennis'?,dinnerTennis
+145,Please convert 'doctor_poetry_meadow' to camelCase.,doctorPoetryMeadow
+146,Change 'doctor_poetry_pumpkin_lucky' into camelCase.,doctorPoetryPumpkinLucky
+147,How would you write 'doctor_vanilla_curious' in camelCase?,doctorVanillaCurious
+148,Give the camelCase version of 'early_castle_stream'.,earlyCastleStream
+149,Format 'early_final_north_purple' as a camelCase identifier.,earlyFinalNorthPurple
+150,Turn the snake_case phrase 'early_rough' into camelCase.,earlyRough
+151,Convert 'east' to camelCase.,east
+152,Rewrite the string 'east_pencil_fresh' in camelCase format.,eastPencilFresh
+153,Transform 'east_starlight' into camelCase style.,eastStarlight
+154,What is the camelCase equivalent of 'east_summer_violin_kitchen'?,eastSummerViolinKitchen
+155,Please convert 'east_winter_sunshine' to camelCase.,eastWinterSunshine
+156,Change 'eclipse' into camelCase.,eclipse
+157,How would you write 'family' in camelCase?,family
+158,Give the camelCase version of 'family_prairie'.,familyPrairie
+159,Format 'family_spring' as a camelCase identifier.,familySpring
+160,Turn the snake_case phrase 'farmer_nearby_stream' into camelCase.,farmerNearbyStream
+161,Convert 'farmer_poetry' to camelCase.,farmerPoetry
+162,Rewrite the string 'farmer_story' in camelCase format.,farmerStory
+163,Transform 'farmer_suitcase' into camelCase style.,farmerSuitcase
+164,What is the camelCase equivalent of 'farmer_wallet_language'?,farmerWalletLanguage
+165,Please convert 'festival_petal_nearby' to camelCase.,festivalPetalNearby
+166,Change 'final' into camelCase.,final
+167,How would you write 'final_breeze_table' in camelCase?,finalBreezeTable
+168,Give the camelCase version of 'final_mirror'.,finalMirror
+169,Format 'final_recipe' as a camelCase identifier.,finalRecipe
+170,Turn the snake_case phrase 'flower_glasses_chess' into camelCase.,flowerGlassesChess
+171,Convert 'flower_teacher_thunder_castle' to camelCase.,flowerTeacherThunderCastle
+172,Rewrite the string 'football_harbor_flower' in camelCase format.,footballHarborFlower
+173,Transform 'football_north_harbor_culture' into camelCase style.,footballNorthHarborCulture
+174,What is the camelCase equivalent of 'football_scarlet'?,footballScarlet
+175,Please convert 'forest_bitter_sweet_snowflake' to camelCase.,forestBitterSweetSnowflake
+176,Change 'forest_lucky' into camelCase.,forestLucky
+177,How would you write 'forest_secret' in camelCase?,forestSecret
+178,Give the camelCase version of 'forest_velvet'.,forestVelvet
+179,Format 'fresh' as a camelCase identifier.,fresh
+180,Turn the snake_case phrase 'friend_desert' into camelCase.,friendDesert
+181,Convert 'friend_neighbor' to camelCase.,friendNeighbor
+182,Rewrite the string 'galaxy_ginger_memory_soccer' in camelCase format.,galaxyGingerMemorySoccer
+183,Transform 'garden_apple_gentle_whisper' into camelCase style.,gardenAppleGentleWhisper
+184,What is the camelCase equivalent of 'garden_breeze'?,gardenBreeze
+185,Please convert 'garden_butterfly' to camelCase.,gardenButterfly
+186,Change 'garden_east_clock' into camelCase.,gardenEastClock
+187,How would you write 'garden_picnic_key_cedar' in camelCase?,gardenPicnicKeyCedar
+188,Give the camelCase version of 'gentle_cookie_theater'.,gentleCookieTheater
+189,Format 'gentle_ribbon_north' as a camelCase identifier.,gentleRibbonNorth
+190,Turn the snake_case phrase 'ginger_cozy' into camelCase.,gingerCozy
+191,Convert 'ginger_cricket' to camelCase.,gingerCricket
+192,Rewrite the string 'ginger_velvet_sunshine' in camelCase format.,gingerVelvetSunshine
+193,Transform 'glacier' into camelCase style.,glacier
+194,What is the camelCase equivalent of 'glacier_local'?,glacierLocal
+195,Please convert 'glacier_rough_spring' to camelCase.,glacierRoughSpring
+196,Change 'glasses_blanket_desert' into camelCase.,glassesBlanketDesert
+197,How would you write 'glasses_sweet_pocket_camera' in camelCase?,glassesSweetPocketCamera
+198,Give the camelCase version of 'golden_jacket'.,goldenJacket
+199,Format 'golden_melody' as a camelCase identifier.,goldenMelody
+200,Turn the snake_case phrase 'grand' into camelCase.,grand
+201,Convert 'grand_history' to camelCase.,grandHistory
+202,Rewrite the string 'grand_language' in camelCase format.,grandLanguage
+203,Transform 'grand_midnight_meadow' into camelCase style.,grandMidnightMeadow
+204,What is the camelCase equivalent of 'grand_pumpkin_dessert'?,grandPumpkinDessert
+205,Please convert 'green_coral_rainbow' to camelCase.,greenCoralRainbow
+206,Change 'green_nearby' into camelCase.,greenNearby
+207,How would you write 'green_spring_silver' in camelCase?,greenSpringSilver
+208,Give the camelCase version of 'guitar_cricket_village'.,guitarCricketVillage
+209,Format 'guitar_farmer_silver' as a camelCase identifier.,guitarFarmerSilver
+210,Turn the snake_case phrase 'guitar_garden' into camelCase.,guitarGarden
+211,Convert 'guitar_palette' to camelCase.,guitarPalette
+212,Rewrite the string 'happy_bright' in camelCase format.,happyBright
+213,Transform 'happy_secret_vanilla' into camelCase style.,happySecretVanilla
+214,What is the camelCase equivalent of 'happy_silver_purple'?,happySilverPurple
+215,Please convert 'harbor_dinner' to camelCase.,harborDinner
+216,Change 'harbor_flower_grand_meadow' into camelCase.,harborFlowerGrandMeadow
+217,How would you write 'harbor_gentle' in camelCase?,harborGentle
+218,Give the camelCase version of 'history_cookie_cool'.,historyCookieCool
+219,Format 'history_happy_thunder' as a camelCase identifier.,historyHappyThunder
+220,Turn the snake_case phrase 'history_notebook' into camelCase.,historyNotebook
+221,Convert 'history_salty_cinnamon' to camelCase.,historySaltyCinnamon
+222,Rewrite the string 'hockey' in camelCase format.,hockey
+223,Transform 'hockey_memory' into camelCase style.,hockeyMemory
+224,What is the camelCase equivalent of 'hockey_museum_starlight_cookie'?,hockeyMuseumStarlightCookie
+225,Please convert 'indigo' to camelCase.,indigo
+226,Change 'indigo_diamond_butterfly' into camelCase.,indigoDiamondButterfly
+227,How would you write 'indigo_mellow' in camelCase?,indigoMellow
+228,Give the camelCase version of 'island_button'.,islandButton
+229,Format 'jacket_bitter_journey_melody' as a camelCase identifier.,jacketBitterJourneyMelody
+230,Turn the snake_case phrase 'jacket_candle_hockey' into camelCase.,jacketCandleHockey
+231,Convert 'jacket_lucky' to camelCase.,jacketLucky
+232,Rewrite the string 'jacket_village_breakfast' in camelCase format.,jacketVillageBreakfast
+233,Transform 'journey' into camelCase style.,journey
+234,What is the camelCase equivalent of 'journey_bitter'?,journeyBitter
+235,Please convert 'key_suitcase_daily' to camelCase.,keySuitcaseDaily
+236,Change 'kind_brave_violet' into camelCase.,kindBraveViolet
+237,How would you write 'kind_guitar_jacket' in camelCase?,kindGuitarJacket
+238,Give the camelCase version of 'kind_wallet'.,kindWallet
+239,Format 'kitchen_autumn_ocean' as a camelCase identifier.,kitchenAutumnOcean
+240,Turn the snake_case phrase 'kitchen_castle_planet' into camelCase.,kitchenCastlePlanet
+241,Convert 'kitchen_prairie_hockey_eclipse' to camelCase.,kitchenPrairieHockeyEclipse
+242,Rewrite the string 'language' in camelCase format.,language
+243,Transform 'language_summer_glacier_story' into camelCase style.,languageSummerGlacierStory
+244,What is the camelCase equivalent of 'lantern'?,lantern
+245,Please convert 'lantern_crisp' to camelCase.,lanternCrisp
+246,Change 'lantern_distant' into camelCase.,lanternDistant
+247,How would you write 'lantern_happy' in camelCase?,lanternHappy
+248,Give the camelCase version of 'lantern_valley_artist_canvas'.,lanternValleyArtistCanvas
+249,Format 'lemon_artist' as a camelCase identifier.,lemonArtist
+250,Turn the snake_case phrase 'lemon_east_vanilla' into camelCase.,lemonEastVanilla
+251,Convert 'lemon_grand' to camelCase.,lemonGrand
+252,Rewrite the string 'lemon_lunch_coast_east' in camelCase format.,lemonLunchCoastEast
+253,Transform 'letter_baker_purple_family' into camelCase style.,letterBakerPurpleFamily
+254,What is the camelCase equivalent of 'letter_table'?,letterTable
+255,Please convert 'letter_upper_table_doctor' to camelCase.,letterUpperTableDoctor
+256,Change 'little_flower' into camelCase.,littleFlower
+257,How would you write 'little_ginger_violin_stream' in camelCase?,littleGingerViolinStream
+258,Give the camelCase version of 'local_dessert_mango'.,localDessertMango
+259,Format 'lower_local_island' as a camelCase identifier.,lowerLocalIsland
+260,Turn the snake_case phrase 'lower_meadow_fresh' into camelCase.,lowerMeadowFresh
+261,Convert 'lower_morning_market_west' to camelCase.,lowerMorningMarketWest
+262,Rewrite the string 'lucky_cozy_quiet' in camelCase format.,luckyCozyQuiet
+263,Transform 'lucky_island_final' into camelCase style.,luckyIslandFinal
+264,What is the camelCase equivalent of 'lucky_silver'?,luckySilver
+265,Please convert 'lunch_galaxy_thunder' to camelCase.,lunchGalaxyThunder
+266,Change 'lunch_teacher' into camelCase.,lunchTeacher
+267,How would you write 'mango' in camelCase?,mango
+268,Give the camelCase version of 'mango_baker_sweet_patient'.,mangoBakerSweetPatient
+269,Format 'mango_central' as a camelCase identifier.,mangoCentral
+270,Turn the snake_case phrase 'mango_daily_lantern' into camelCase.,mangoDailyLantern
+271,Convert 'mango_pencil' to camelCase.,mangoPencil
+272,Rewrite the string 'mango_pocket_apple' in camelCase format.,mangoPocketApple
+273,Transform 'maple' into camelCase style.,maple
+274,What is the camelCase equivalent of 'maple_cookie'?,mapleCookie
+275,Please convert 'maple_napkin' to camelCase.,mapleNapkin
+276,Change 'maple_teapot' into camelCase.,mapleTeapot
+277,How would you write 'marble' in camelCase?,marble
+278,Give the camelCase version of 'marble_coral_coast'.,marbleCoralCoast
+279,Format 'marble_meadow' as a camelCase identifier.,marbleMeadow
+280,Turn the snake_case phrase 'marble_theater' into camelCase.,marbleTheater
+281,Convert 'market' to camelCase.,market
+282,Rewrite the string 'market_apple' in camelCase format.,marketApple
+283,Transform 'market_notebook_brave_marble' into camelCase style.,marketNotebookBraveMarble
+284,What is the camelCase equivalent of 'market_salty_snowflake_calendar'?,marketSaltySnowflakeCalendar
+285,Please convert 'market_waterfall' to camelCase.,marketWaterfall
+286,Change 'meadow' into camelCase.,meadow
+287,How would you write 'meadow_bright' in camelCase?,meadowBright
+288,Give the camelCase version of 'meadow_canvas_sunset'.,meadowCanvasSunset
+289,Format 'meadow_central' as a camelCase identifier.,meadowCentral
+290,Turn the snake_case phrase 'meadow_dance' into camelCase.,meadowDance
+291,Convert 'meadow_letter' to camelCase.,meadowLetter
+292,Rewrite the string 'meadow_piano_sunshine' in camelCase format.,meadowPianoSunshine
+293,Transform 'meadow_vanilla' into camelCase style.,meadowVanilla
+294,What is the camelCase equivalent of 'mellow_eclipse'?,mellowEclipse
+295,Please convert 'mellow_football' to camelCase.,mellowFootball
+296,Change 'melody_button' into camelCase.,melodyButton
+297,How would you write 'melody_local' in camelCase?,melodyLocal
+298,Give the camelCase version of 'melody_pencil'.,melodyPencil
+299,Format 'memory_golden_stream' as a camelCase identifier.,memoryGoldenStream
+300,Turn the snake_case phrase 'midnight' into camelCase.,midnight
+301,Convert 'mirror' to camelCase.,mirror
+302,Rewrite the string 'mirror_silver_ribbon' in camelCase format.,mirrorSilverRibbon
+303,Transform 'modern' into camelCase style.,modern
+304,What is the camelCase equivalent of 'modern_galaxy'?,modernGalaxy
+305,Please convert 'modern_grand' to camelCase.,modernGrand
+306,Change 'modern_harbor_grand' into camelCase.,modernHarborGrand
+307,How would you write 'morning_football_pencil_teacher' in camelCase?,morningFootballPencilTeacher
+308,Give the camelCase version of 'morning_secret_neighbor'.,morningSecretNeighbor
+309,Format 'mountain_suitcase_kind' as a camelCase identifier.,mountainSuitcaseKind
+310,Turn the snake_case phrase 'museum' into camelCase.,museum
+311,Convert 'napkin_cinnamon' to camelCase.,napkinCinnamon
+312,Rewrite the string 'napkin_smooth' in camelCase format.,napkinSmooth
+313,Transform 'napkin_sunset_waterfall' into camelCase style.,napkinSunsetWaterfall
+314,What is the camelCase equivalent of 'nearby_island_market'?,nearbyIslandMarket
+315,Please convert 'nearby_winter' to camelCase.,nearbyWinter
+316,Change 'nearby_yoga_garden' into camelCase.,nearbyYogaGarden
+317,How would you write 'neighbor_clock' in camelCase?,neighborClock
+318,Give the camelCase version of 'north_apple'.,northApple
+319,Format 'north_chapter' as a camelCase identifier.,northChapter
+320,Turn the snake_case phrase 'north_melody' into camelCase.,northMelody
+321,Convert 'north_poetry_thunder' to camelCase.,northPoetryThunder
+322,Rewrite the string 'ocean' in camelCase format.,ocean
+323,Transform 'ocean_central' into camelCase style.,oceanCentral
+324,What is the camelCase equivalent of 'ocean_copper_fresh'?,oceanCopperFresh
+325,Please convert 'ocean_happy_whisper' to camelCase.,oceanHappyWhisper
+326,Change 'orange_east' into camelCase.,orangeEast
+327,How would you write 'orchard' in camelCase?,orchard
+328,Give the camelCase version of 'orchard_family_silver_harvest'.,orchardFamilySilverHarvest
+329,Format 'orchard_pillow' as a camelCase identifier.,orchardPillow
+330,Turn the snake_case phrase 'orchard_spicy' into camelCase.,orchardSpicy
+331,Convert 'palette_green' to camelCase.,paletteGreen
+332,Rewrite the string 'palette_harbor' in camelCase format.,paletteHarbor
+333,Transform 'passport' into camelCase style.,passport
+334,What is the camelCase equivalent of 'patient_farmer'?,patientFarmer
+335,Please convert 'patient_west_rainbow' to camelCase.,patientWestRainbow
+336,Change 'peach_coffee' into camelCase.,peachCoffee
+337,How would you write 'peach_morning_north_thunder' in camelCase?,peachMorningNorthThunder
+338,Give the camelCase version of 'peach_science_cherry'.,peachScienceCherry
+339,Format 'pencil' as a camelCase identifier.,pencil
+340,Turn the snake_case phrase 'pencil_camera' into camelCase.,pencilCamera
+341,Convert 'pencil_castle' to camelCase.,pencilCastle
+342,Rewrite the string 'pencil_lemon' in camelCase format.,pencilLemon
+343,Transform 'pencil_rough_clock' into camelCase style.,pencilRoughClock
+344,What is the camelCase equivalent of 'pepper_happy_curious'?,pepperHappyCurious
+345,Please convert 'pepper_science_dance' to camelCase.,pepperScienceDance
+346,Change 'pepper_valley_doctor' into camelCase.,pepperValleyDoctor
+347,How would you write 'petal_melody' in camelCase?,petalMelody
+348,Give the camelCase version of 'petal_pillow'.,petalPillow
+349,Format 'petal_salty' as a camelCase identifier.,petalSalty
+350,Turn the snake_case phrase 'petal_stream' into camelCase.,petalStream
+351,Convert 'phone_apple_rain' to camelCase.,phoneAppleRain
+352,Rewrite the string 'phone_lantern' in camelCase format.,phoneLantern
+353,Transform 'phone_maple' into camelCase style.,phoneMaple
+354,What is the camelCase equivalent of 'piano'?,piano
+355,Please convert 'piano_castle_letter_river' to camelCase.,pianoCastleLetterRiver
+356,Change 'piano_football' into camelCase.,pianoFootball
+357,How would you write 'piano_simple_meadow_yellow' in camelCase?,pianoSimpleMeadowYellow
+358,Give the camelCase version of 'picnic_crystal'.,picnicCrystal
+359,Format 'picnic_petal' as a camelCase identifier.,picnicPetal
+360,Turn the snake_case phrase 'picnic_piano' into camelCase.,picnicPiano
+361,Convert 'picnic_wisdom' to camelCase.,picnicWisdom
+362,Rewrite the string 'pillow_breeze' in camelCase format.,pillowBreeze
+363,Transform 'pocket_lantern' into camelCase style.,pocketLantern
+364,What is the camelCase equivalent of 'poetry_chess_glacier'?,poetryChessGlacier
+365,Please convert 'poetry_diary_modern_east' to camelCase.,poetryDiaryModernEast
+366,Change 'poetry_planet' into camelCase.,poetryPlanet
+367,How would you write 'poetry_rough_comet' in camelCase?,poetryRoughComet
+368,Give the camelCase version of 'prairie_cedar_blue'.,prairieCedarBlue
+369,Format 'purple' as a camelCase identifier.,purple
+370,Turn the snake_case phrase 'purple_simple_mango' into camelCase.,purpleSimpleMango
+371,Convert 'quiet_sunset_guitar_key' to camelCase.,quietSunsetGuitarKey
+372,Rewrite the string 'rain_candle_patient' in camelCase format.,rainCandlePatient
+373,Transform 'rain_palette' into camelCase style.,rainPalette
+374,What is the camelCase equivalent of 'rainbow_cloud_amber'?,rainbowCloudAmber
+375,Please convert 'rainbow_quiet_chapter' to camelCase.,rainbowQuietChapter
+376,Change 'recipe' into camelCase.,recipe
+377,How would you write 'recipe_tennis_notebook' in camelCase?,recipeTennisNotebook
+378,Give the camelCase version of 'rhythm'.,rhythm
+379,Format 'rhythm_captain_forest' as a camelCase identifier.,rhythmCaptainForest
+380,Turn the snake_case phrase 'ribbon' into camelCase.,ribbon
+381,Convert 'ribbon_marble' to camelCase.,ribbonMarble
+382,Rewrite the string 'river_bitter' in camelCase format.,riverBitter
+383,Transform 'river_indigo' into camelCase style.,riverIndigo
+384,What is the camelCase equivalent of 'river_prairie'?,riverPrairie
+385,Please convert 'river_waterfall' to camelCase.,riverWaterfall
+386,Change 'rough_autumn' into camelCase.,roughAutumn
+387,How would you write 'salty_silver' in camelCase?,saltySilver
+388,Give the camelCase version of 'scarlet_butterfly'.,scarletButterfly
+389,Format 'scarlet_violin' as a camelCase identifier.,scarletViolin
+390,Turn the snake_case phrase 'scarlet_west' into camelCase.,scarletWest
+391,Convert 'science' to camelCase.,science
+392,Rewrite the string 'science_blue_galaxy' in camelCase format.,scienceBlueGalaxy
+393,Transform 'science_coffee' into camelCase style.,scienceCoffee
+394,What is the camelCase equivalent of 'science_gentle'?,scienceGentle
+395,Please convert 'science_purple_recipe' to camelCase.,sciencePurpleRecipe
+396,Change 'secret' into camelCase.,secret
+397,How would you write 'secret_butterfly_canvas' in camelCase?,secretButterflyCanvas
+398,Give the camelCase version of 'secret_table_modern'.,secretTableModern
+399,Format 'shore_morning_science_soccer' as a camelCase identifier.,shoreMorningScienceSoccer
+400,Turn the snake_case phrase 'shore_morning_soccer_central' into camelCase.,shoreMorningSoccerCentral
+401,Convert 'shore_planet_recipe' to camelCase.,shorePlanetRecipe
+402,Rewrite the string 'silver_orange' in camelCase format.,silverOrange
+403,Transform 'silver_petal_waterfall' into camelCase style.,silverPetalWaterfall
+404,What is the camelCase equivalent of 'silver_silver'?,silverSilver
+405,Please convert 'silver_warm_simple' to camelCase.,silverWarmSimple
+406,Change 'silver_winter' into camelCase.,silverWinter
+407,How would you write 'smooth_maple_winter' in camelCase?,smoothMapleWinter
+408,Give the camelCase version of 'smooth_purple_diamond'.,smoothPurpleDiamond
+409,Format 'snowflake' as a camelCase identifier.,snowflake
+410,Turn the snake_case phrase 'snowflake_smooth_blue' into camelCase.,snowflakeSmoothBlue
+411,Convert 'soccer' to camelCase.,soccer
+412,Rewrite the string 'soccer_brave' in camelCase format.,soccerBrave
+413,Transform 'soccer_journey_amber' into camelCase style.,soccerJourneyAmber
+414,What is the camelCase equivalent of 'soccer_snowflake_sweet'?,soccerSnowflakeSweet
+415,Please convert 'south' to camelCase.,south
+416,Change 'south_cloud_orange' into camelCase.,southCloudOrange
+417,How would you write 'spicy_gentle' in camelCase?,spicyGentle
+418,Give the camelCase version of 'spicy_lunch'.,spicyLunch
+419,Format 'spicy_marble_curious_key' as a camelCase identifier.,spicyMarbleCuriousKey
+420,Turn the snake_case phrase 'spicy_silver_umbrella_spring' into camelCase.,spicySilverUmbrellaSpring
+421,Convert 'spring_north_museum' to camelCase.,springNorthMuseum
+422,Rewrite the string 'spring_waterfall' in camelCase format.,springWaterfall
+423,Transform 'starlight_napkin_compass' into camelCase style.,starlightNapkinCompass
+424,What is the camelCase equivalent of 'starlight_peach_glasses'?,starlightPeachGlasses
+425,Please convert 'starlight_pumpkin' to camelCase.,starlightPumpkin
+426,Change 'starlight_starlight_blossom' into camelCase.,starlightStarlightBlossom
+427,How would you write 'starlight_teapot' in camelCase?,starlightTeapot
+428,Give the camelCase version of 'station'.,station
+429,Format 'station_artist' as a camelCase identifier.,stationArtist
+430,Turn the snake_case phrase 'station_mellow' into camelCase.,stationMellow
+431,Convert 'story_desert' to camelCase.,storyDesert
+432,Rewrite the string 'stream_cozy' in camelCase format.,streamCozy
+433,Transform 'stream_ginger' into camelCase style.,streamGinger
+434,What is the camelCase equivalent of 'stream_melody_lucky'?,streamMelodyLucky
+435,Please convert 'stream_pillow' to camelCase.,streamPillow
+436,Change 'stream_teacher' into camelCase.,streamTeacher
+437,How would you write 'suitcase_morning' in camelCase?,suitcaseMorning
+438,Give the camelCase version of 'suitcase_science'.,suitcaseScience
+439,Format 'suitcase_yoga' as a camelCase identifier.,suitcaseYoga
+440,Turn the snake_case phrase 'summer_dancer_memory_wallet' into camelCase.,summerDancerMemoryWallet
+441,Convert 'summer_family_glacier' to camelCase.,summerFamilyGlacier
+442,Rewrite the string 'sunset_lower_journey' in camelCase format.,sunsetLowerJourney
+443,Transform 'sunset_ribbon' into camelCase style.,sunsetRibbon
+444,What is the camelCase equivalent of 'sunshine_dance_festival'?,sunshineDanceFestival
+445,Please convert 'sunshine_meadow_early_harvest' to camelCase.,sunshineMeadowEarlyHarvest
+446,Change 'sweet' into camelCase.,sweet
+447,How would you write 'sweet_pumpkin_amber_lantern' in camelCase?,sweetPumpkinAmberLantern
+448,Give the camelCase version of 'sweet_starlight'.,sweetStarlight
+449,Format 'swimming_memory_west' as a camelCase identifier.,swimmingMemoryWest
+450,Turn the snake_case phrase 'table' into camelCase.,table
+451,Convert 'teapot_central_copper_curious' to camelCase.,teapotCentralCopperCurious
+452,Rewrite the string 'teapot_shore_garden' in camelCase format.,teapotShoreGarden
+453,Transform 'tennis' into camelCase style.,tennis
+454,What is the camelCase equivalent of 'tennis_camera_table'?,tennisCameraTable
+455,Please convert 'tennis_orange_candle' to camelCase.,tennisOrangeCandle
+456,Change 'theater_language' into camelCase.,theaterLanguage
+457,How would you write 'theater_violin_petal' in camelCase?,theaterViolinPetal
+458,Give the camelCase version of 'thunder_chess_meadow'.,thunderChessMeadow
+459,Format 'thunder_scarlet' as a camelCase identifier.,thunderScarlet
+460,Turn the snake_case phrase 'ticket_rain' into camelCase.,ticketRain
+461,Convert 'umbrella_baker_maple' to camelCase.,umbrellaBakerMaple
+462,Rewrite the string 'umbrella_final' in camelCase format.,umbrellaFinal
+463,Transform 'umbrella_sunset' into camelCase style.,umbrellaSunset
+464,What is the camelCase equivalent of 'upper_baker_melody'?,upperBakerMelody
+465,Please convert 'upper_crisp_distant_valley' to camelCase.,upperCrispDistantValley
+466,Change 'valley_soccer_canvas' into camelCase.,valleySoccerCanvas
+467,How would you write 'vanilla_kitchen' in camelCase?,vanillaKitchen
+468,Give the camelCase version of 'velvet_pencil_kitchen'.,velvetPencilKitchen
+469,Format 'village' as a camelCase identifier.,village
+470,Turn the snake_case phrase 'village_east' into camelCase.,villageEast
+471,Convert 'village_pencil' to camelCase.,villagePencil
+472,Rewrite the string 'village_pocket_golden_doctor' in camelCase format.,villagePocketGoldenDoctor
+473,Transform 'violet_gentle' into camelCase style.,violetGentle
+474,What is the camelCase equivalent of 'violet_orange_phone'?,violetOrangePhone
+475,Please convert 'waffle_baker_dessert' to camelCase.,waffleBakerDessert
+476,Change 'waffle_galaxy' into camelCase.,waffleGalaxy
+477,How would you write 'waffle_patient' in camelCase?,wafflePatient
+478,Give the camelCase version of 'wallet_mellow'.,walletMellow
+479,Format 'wallet_pencil' as a camelCase identifier.,walletPencil
+480,Turn the snake_case phrase 'wallet_south' into camelCase.,walletSouth
+481,Convert 'warm_autumn_smooth' to camelCase.,warmAutumnSmooth
+482,Rewrite the string 'warm_cloud_harvest_local' in camelCase format.,warmCloudHarvestLocal
+483,Transform 'warm_daily' into camelCase style.,warmDaily
+484,What is the camelCase equivalent of 'warm_happy_cherry'?,warmHappyCherry
+485,Please convert 'waterfall_bitter_farmer' to camelCase.,waterfallBitterFarmer
+486,Change 'waterfall_prairie_happy_comet' into camelCase.,waterfallPrairieHappyComet
+487,How would you write 'west_violin' in camelCase?,westViolin
+488,Give the camelCase version of 'whisper_camera_hockey'.,whisperCameraHockey
+489,Format 'whisper_peach' as a camelCase identifier.,whisperPeach
+490,Turn the snake_case phrase 'willow_piano' into camelCase.,willowPiano
+491,Convert 'winter_compass' to camelCase.,winterCompass
+492,Rewrite the string 'winter_piano' in camelCase format.,winterPiano
+493,Transform 'wisdom' into camelCase style.,wisdom
+494,What is the camelCase equivalent of 'wisdom_cedar'?,wisdomCedar
+495,Please convert 'yellow' to camelCase.,yellow
+496,Change 'yellow_jacket_lower' into camelCase.,yellowJacketLower
+497,How would you write 'yellow_rain_pencil_meadow' in camelCase?,yellowRainPencilMeadow
+498,Give the camelCase version of 'yellow_waterfall_key'.,yellowWaterfallKey
+499,Format 'yoga_jacket_meadow_south' as a camelCase identifier.,yogaJacketMeadowSouth
+500,Turn the snake_case phrase 'yoga_sunset_canvas' into camelCase.,yogaSunsetCanvas
+501,Convert 'acorn_horizon_penguin_jewel' to camelCase.,acornHorizonPenguinJewel
+502,Rewrite the string 'acorn_umbrella' in camelCase format.,acornUmbrella
+503,Transform 'almond_clover' into camelCase style.,almondClover
+504,What is the camelCase equivalent of 'almond_seashell_teacup'?,almondSeashellTeacup
+505,Please convert 'almond_swimming' to camelCase.,almondSwimming
+506,Change 'apricot_marigold' into camelCase.,apricotMarigold
+507,How would you write 'apricot_parsley_pebble' in camelCase?,apricotParsleyPebble
+508,Give the camelCase version of 'avocado_yarn_jelly'.,avocadoYarnJelly
+509,Format 'berry_grass_blueberry_milk' as a camelCase identifier.,berryGrassBlueberryMilk
+510,Turn the snake_case phrase 'berry_pebble_ginger_seagull' into camelCase.,berryPebbleGingerSeagull
+511,Convert 'blackberry_radish' to camelCase.,blackberryRadish
+512,Rewrite the string 'blueberry_bottle' in camelCase format.,blueberryBottle
+513,Transform 'blueberry_mosaic' into camelCase style.,blueberryMosaic
+514,What is the camelCase equivalent of 'book'?,book
+515,Please convert 'book_photograph' to camelCase.,bookPhotograph
+516,Change 'book_shampoo' into camelCase.,bookShampoo
+517,How would you write 'book_tulip' in camelCase?,bookTulip
+518,Give the camelCase version of 'bottle_button_penguin_notebook'.,bottleButtonPenguinNotebook
+519,Format 'branch' as a camelCase identifier.,branch
+520,Turn the snake_case phrase 'branch_salad' into camelCase.,branchSalad
+521,Convert 'branch_sparrow' to camelCase.,branchSparrow
+522,Rewrite the string 'branch_zephyr_denim_twilight' in camelCase format.,branchZephyrDenimTwilight
+523,Transform 'bridge_earth' into camelCase style.,bridgeEarth
+524,What is the camelCase equivalent of 'bridge_silk_microphone_hotel'?,bridgeSilkMicrophoneHotel
+525,Please convert 'broccoli_fox' to camelCase.,broccoliFox
+526,Change 'broccoli_lighthouse' into camelCase.,broccoliLighthouse
+527,How would you write 'broccoli_parrot' in camelCase?,broccoliParrot
+528,Give the camelCase version of 'bubble'.,bubble
+529,Format 'bucket_rose' as a camelCase identifier.,bucketRose
+530,Turn the snake_case phrase 'cabbage_chocolate_pineapple' into camelCase.,cabbageChocolatePineapple
+531,Convert 'cabbage_radish' to camelCase.,cabbageRadish
+532,Rewrite the string 'cabbage_zephyr' in camelCase format.,cabbageZephyr
+533,Transform 'cactus_apricot_waterfall_eagle' into camelCase style.,cactusApricotWaterfallEagle
+534,What is the camelCase equivalent of 'cake_earth_pocket'?,cakeEarthPocket
+535,Please convert 'cake_twilight_linen_silk' to camelCase.,cakeTwilightLinenSilk
+536,Change 'camel' into camelCase.,camel
+537,How would you write 'camel_marmalade' in camelCase?,camelMarmalade
+538,Give the camelCase version of 'carpet'.,carpet
+539,Format 'carpet_silk_clover_mosaic' as a camelCase identifier.,carpetSilkCloverMosaic
+540,Turn the snake_case phrase 'carpet_temple' into camelCase.,carpetTemple
+541,Convert 'carpet_thimble' to camelCase.,carpetThimble
+542,Rewrite the string 'carpet_tunnel_kale_saffron' in camelCase format.,carpetTunnelKaleSaffron
+543,Transform 'carrot_chestnut_fountain' into camelCase style.,carrotChestnutFountain
+544,What is the camelCase equivalent of 'carrot_jewel_sunflower'?,carrotJewelSunflower
+545,Please convert 'carrot_shadow_feather' to camelCase.,carrotShadowFeather
+546,Change 'cave_meadow' into camelCase.,caveMeadow
+547,How would you write 'cave_milk' in camelCase?,caveMilk
+548,Give the camelCase version of 'cave_nectarine_camel'.,caveNectarineCamel
+549,Format 'cave_pear_ginger_nutmeg' as a camelCase identifier.,cavePearGingerNutmeg
+550,Turn the snake_case phrase 'cheese' into camelCase.,cheese
+551,Convert 'cheese_strawberry' to camelCase.,cheeseStrawberry
+552,Rewrite the string 'cheese_wardrobe' in camelCase format.,cheeseWardrobe
+553,Transform 'cherry' into camelCase style.,cherry
+554,What is the camelCase equivalent of 'cherry_swimming_vase'?,cherrySwimmingVase
+555,Please convert 'chestnut_spoon' to camelCase.,chestnutSpoon
+556,Change 'chocolate_cherry' into camelCase.,chocolateCherry
+557,How would you write 'cinnamon' in camelCase?,cinnamon
+558,Give the camelCase version of 'cinnamon_earth'.,cinnamonEarth
+559,Format 'cinnamon_pillow' as a camelCase identifier.,cinnamonPillow
+560,Turn the snake_case phrase 'citrus_kale_toast_reef' into camelCase.,citrusKaleToastReef
+561,Convert 'citrus_quilt' to camelCase.,citrusQuilt
+562,Rewrite the string 'citrus_umbrella_sparrow_engine' in camelCase format.,citrusUmbrellaSparrowEngine
+563,Transform 'cocoa_meadow_citrus' into camelCase style.,cocoaMeadowCitrus
+564,What is the camelCase equivalent of 'coconut_sweater'?,coconutSweater
+565,Please convert 'comet_chestnut_pebble' to camelCase.,cometChestnutPebble
+566,Change 'comet_persimmon' into camelCase.,cometPersimmon
+567,How would you write 'coral_pumpkin' in camelCase?,coralPumpkin
+568,Give the camelCase version of 'cotton_coconut_glass'.,cottonCoconutGlass
+569,Format 'cotton_coral' as a camelCase identifier.,cottonCoral
+570,Turn the snake_case phrase 'cotton_fern_yarn' into camelCase.,cottonFernYarn
+571,Convert 'cotton_island' to camelCase.,cottonIsland
+572,Rewrite the string 'crown_jasmine_silk_garlic' in camelCase format.,crownJasmineSilkGarlic
+573,Transform 'cucumber' into camelCase style.,cucumber
+574,What is the camelCase equivalent of 'cucumber_galaxy_bottle_lotus'?,cucumberGalaxyBottleLotus
+575,Please convert 'daisy_bubble_echo_opera' to camelCase.,daisyBubbleEchoOpera
+576,Change 'daisy_flamingo' into camelCase.,daisyFlamingo
+577,How would you write 'daisy_hammock' in camelCase?,daisyHammock
+578,Give the camelCase version of 'daisy_lobster'.,daisyLobster
+579,Format 'dandelion_basil' as a camelCase identifier.,dandelionBasil
+580,Turn the snake_case phrase 'denim_maple_ribbon_toast' into camelCase.,denimMapleRibbonToast
+581,Convert 'denim_motorcycle_sweater' to camelCase.,denimMotorcycleSweater
+582,Rewrite the string 'denim_mountain_basil_glass' in camelCase format.,denimMountainBasilGlass
+583,Transform 'denim_rose' into camelCase style.,denimRose
+584,What is the camelCase equivalent of 'dolphin_mandarin_island_fern'?,dolphinMandarinIslandFern
+585,Please convert 'doughnut_watermelon_persimmon_noodle' to camelCase.,doughnutWatermelonPersimmonNoodle
+586,Change 'dragon' into camelCase.,dragon
+587,How would you write 'dragon_cake' in camelCase?,dragonCake
+588,Give the camelCase version of 'dragon_raspberry'.,dragonRaspberry
+589,Format 'dragon_strawberry' as a camelCase identifier.,dragonStrawberry
+590,Turn the snake_case phrase 'drawer_friendship_sunflower' into camelCase.,drawerFriendshipSunflower
+591,Convert 'drawer_lipstick_skillet' to camelCase.,drawerLipstickSkillet
+592,Rewrite the string 'drawer_parrot' in camelCase format.,drawerParrot
+593,Transform 'drawer_rose' into camelCase style.,drawerRose
+594,What is the camelCase equivalent of 'eagle_recipe'?,eagleRecipe
+595,Please convert 'earth_dolphin' to camelCase.,earthDolphin
+596,Change 'earth_peanut_globe' into camelCase.,earthPeanutGlobe
+597,How would you write 'earth_walnut_emerald' in camelCase?,earthWalnutEmerald
+598,Give the camelCase version of 'echo_almond_ink'.,echoAlmondInk
+599,Format 'echo_linen' as a camelCase identifier.,echoLinen
+600,Turn the snake_case phrase 'echo_tambourine' into camelCase.,echoTambourine
+601,Convert 'engine_igloo' to camelCase.,engineIgloo
+602,Rewrite the string 'envelope_ribbon_chocolate' in camelCase format.,envelopeRibbonChocolate
+603,Transform 'evening' into camelCase style.,evening
+604,What is the camelCase equivalent of 'evening_magazine'?,eveningMagazine
+605,Please convert 'evening_mosaic' to camelCase.,eveningMosaic
+606,Change 'feather' into camelCase.,feather
+607,How would you write 'feather_chocolate' in camelCase?,featherChocolate
+608,Give the camelCase version of 'feather_denim_marigold'.,featherDenimMarigold
+609,Format 'feather_jewel_penguin' as a camelCase identifier.,featherJewelPenguin
+610,Turn the snake_case phrase 'fern' into camelCase.,fern
+611,Convert 'fern_almond_lion' to camelCase.,fernAlmondLion
+612,Rewrite the string 'fern_carrot_sweater' in camelCase format.,fernCarrotSweater
+613,Transform 'fern_evening_silk' into camelCase style.,fernEveningSilk
+614,What is the camelCase equivalent of 'fern_sapphire_drawer_smoothie'?,fernSapphireDrawerSmoothie
+615,Please convert 'fig_seashell' to camelCase.,figSeashell
+616,Change 'fireplace_igloo_engine' into camelCase.,fireplaceIglooEngine
+617,How would you write 'fireplace_olive' in camelCase?,fireplaceOlive
+618,Give the camelCase version of 'fireplace_windmill_evening'.,fireplaceWindmillEvening
+619,Format 'flamingo_fern' as a camelCase identifier.,flamingoFern
+620,Turn the snake_case phrase 'flamingo_pillow' into camelCase.,flamingoPillow
+621,Convert 'flute' to camelCase.,flute
+622,Rewrite the string 'fountain' in camelCase format.,fountain
+623,Transform 'fountain_noodle' into camelCase style.,fountainNoodle
+624,What is the camelCase equivalent of 'fountain_valley_ink'?,fountainValleyInk
+625,Please convert 'fountain_waterfall_broccoli' to camelCase.,fountainWaterfallBroccoli
+626,Change 'fox' into camelCase.,fox
+627,How would you write 'fox_clover' in camelCase?,foxClover
+628,Give the camelCase version of 'fox_comet_flute_berry'.,foxCometFluteBerry
+629,Format 'fox_marigold_feather' as a camelCase identifier.,foxMarigoldFeather
+630,Turn the snake_case phrase 'fox_whistle_tomato' into camelCase.,foxWhistleTomato
+631,Convert 'friendship' to camelCase.,friendship
+632,Rewrite the string 'friendship_crown_spoon' in camelCase format.,friendshipCrownSpoon
+633,Transform 'friendship_photograph_apricot' into camelCase style.,friendshipPhotographApricot
+634,What is the camelCase equivalent of 'friendship_waterfall'?,friendshipWaterfall
+635,Please convert 'galaxy' to camelCase.,galaxy
+636,Change 'garlic_jasmine_strawberry' into camelCase.,garlicJasmineStrawberry
+637,How would you write 'garlic_lion_popcorn_bottle' in camelCase?,garlicLionPopcornBottle
+638,Give the camelCase version of 'garlic_pillow_gemstone'.,garlicPillowGemstone
+639,Format 'ginger' as a camelCase identifier.,ginger
+640,Turn the snake_case phrase 'glass_maple_gemstone_fern' into camelCase.,glassMapleGemstoneFern
+641,Convert 'globe_book_shampoo_lime' to camelCase.,globeBookShampooLime
+642,Rewrite the string 'globe_flute_earth' in camelCase format.,globeFluteEarth
+643,Transform 'globe_igloo' into camelCase style.,globeIgloo
+644,What is the camelCase equivalent of 'globe_puzzle_skillet'?,globePuzzleSkillet
+645,Please convert 'globe_squirrel_sherbet_smoothie' to camelCase.,globeSquirrelSherbetSmoothie
+646,Change 'grapefruit_fern_bucket' into camelCase.,grapefruitFernBucket
+647,How would you write 'grapefruit_saffron_daisy' in camelCase?,grapefruitSaffronDaisy
+648,Give the camelCase version of 'grass'.,grass
+649,Format 'grass_pickle_rose_refrigerator' as a camelCase identifier.,grassPickleRoseRefrigerator
+650,Turn the snake_case phrase 'grass_radish_button' into camelCase.,grassRadishButton
+651,Convert 'grass_rosemary' to camelCase.,grassRosemary
+652,Rewrite the string 'grass_scarf_crown_horizon' in camelCase format.,grassScarfCrownHorizon
+653,Transform 'hammock' into camelCase style.,hammock
+654,What is the camelCase equivalent of 'hammock_twilight'?,hammockTwilight
+655,Please convert 'hammock_whistle_horizon' to camelCase.,hammockWhistleHorizon
+656,Change 'hazelnut_chestnut' into camelCase.,hazelnutChestnut
+657,How would you write 'honey_rabbit' in camelCase?,honeyRabbit
+658,Give the camelCase version of 'horizon'.,horizon
+659,Format 'horizon_eagle_planet_island' as a camelCase identifier.,horizonEaglePlanetIsland
+660,Turn the snake_case phrase 'horizon_flute_pepper' into camelCase.,horizonFlutePepper
+661,Convert 'horizon_grapefruit' to camelCase.,horizonGrapefruit
+662,Rewrite the string 'hotel' in camelCase format.,hotel
+663,Transform 'hotel_shadow_radish' into camelCase style.,hotelShadowRadish
+664,What is the camelCase equivalent of 'iceberg_sweater'?,icebergSweater
+665,Please convert 'igloo_lavender' to camelCase.,iglooLavender
+666,Change 'igloo_linen' into camelCase.,iglooLinen
+667,How would you write 'igloo_lion' in camelCase?,iglooLion
+668,Give the camelCase version of 'ink_camel_tablet'.,inkCamelTablet
+669,Format 'ink_cave' as a camelCase identifier.,inkCave
+670,Turn the snake_case phrase 'ink_friendship_linen_mailbox' into camelCase.,inkFriendshipLinenMailbox
+671,Convert 'ink_gemstone_sparrow' to camelCase.,inkGemstoneSparrow
+672,Rewrite the string 'ink_leaf_scooter' in camelCase format.,inkLeafScooter
+673,Transform 'ink_noodle' into camelCase style.,inkNoodle
+674,What is the camelCase equivalent of 'island_kiwi'?,islandKiwi
+675,Please convert 'island_spinach' to camelCase.,islandSpinach
+676,Change 'jasmine' into camelCase.,jasmine
+677,How would you write 'jasmine_refrigerator' in camelCase?,jasmineRefrigerator
+678,Give the camelCase version of 'jelly_marmalade_quilt'.,jellyMarmaladeQuilt
+679,Format 'jelly_pillow_pancake' as a camelCase identifier.,jellyPillowPancake
+680,Turn the snake_case phrase 'jewel_cinnamon_muffin_waterfall' into camelCase.,jewelCinnamonMuffinWaterfall
+681,Convert 'jewel_envelope_sapphire' to camelCase.,jewelEnvelopeSapphire
+682,Rewrite the string 'jewel_jasmine' in camelCase format.,jewelJasmine
+683,Transform 'jewel_muffin' into camelCase style.,jewelMuffin
+684,What is the camelCase equivalent of 'jewel_opera'?,jewelOpera
+685,Please convert 'jewel_sunflower_honey' to camelCase.,jewelSunflowerHoney
+686,Change 'kale_muffin_mosaic' into camelCase.,kaleMuffinMosaic
+687,How would you write 'kale_orchid' in camelCase?,kaleOrchid
+688,Give the camelCase version of 'kettle_tablet'.,kettleTablet
+689,Format 'kettle_teacup_hotel' as a camelCase identifier.,kettleTeacupHotel
+690,Turn the snake_case phrase 'kiwi_mailbox' into camelCase.,kiwiMailbox
+691,Convert 'kiwi_pebble' to camelCase.,kiwiPebble
+692,Rewrite the string 'lagoon_suitcase' in camelCase format.,lagoonSuitcase
+693,Transform 'lavender_drawer_olive_window' into camelCase style.,lavenderDrawerOliveWindow
+694,What is the camelCase equivalent of 'leaf_carpet'?,leafCarpet
+695,Please convert 'leaf_stadium_vineyard' to camelCase.,leafStadiumVineyard
+696,Change 'library_cave_umbrella_sesame' into camelCase.,libraryCaveUmbrellaSesame
+697,How would you write 'lighthouse_grape' in camelCase?,lighthouseGrape
+698,Give the camelCase version of 'lime_parsley'.,limeParsley
+699,Format 'lime_perfume_persimmon_broccoli' as a camelCase identifier.,limePerfumePersimmonBroccoli
+700,Turn the snake_case phrase 'lime_spinach_mitten_kale' into camelCase.,limeSpinachMittenKale
+701,Convert 'linen_clover' to camelCase.,linenClover
+702,Rewrite the string 'linen_scooter' in camelCase format.,linenScooter
+703,Transform 'linen_shampoo_smoothie_thyme' into camelCase style.,linenShampooSmoothieThyme
+704,What is the camelCase equivalent of 'lion_camel'?,lionCamel
+705,Please convert 'lion_silk_temple' to camelCase.,lionSilkTemple
+706,Change 'lipstick' into camelCase.,lipstick
+707,How would you write 'lipstick_avocado' in camelCase?,lipstickAvocado
+708,Give the camelCase version of 'lipstick_caramel_glass_tulip'.,lipstickCaramelGlassTulip
+709,Format 'lipstick_kiwi' as a camelCase identifier.,lipstickKiwi
+710,Turn the snake_case phrase 'lipstick_pumpkin' into camelCase.,lipstickPumpkin
+711,Convert 'lizard_drawer_dragon_toast' to camelCase.,lizardDrawerDragonToast
+712,Rewrite the string 'lizard_leaf_waterfall_muffin' in camelCase format.,lizardLeafWaterfallMuffin
+713,Transform 'lizard_ukulele' into camelCase style.,lizardUkulele
+714,What is the camelCase equivalent of 'lobster_engine_envelope'?,lobsterEngineEnvelope
+715,Please convert 'lobster_pillow' to camelCase.,lobsterPillow
+716,Change 'lotus_pottery_cake' into camelCase.,lotusPotteryCake
+717,How would you write 'magazine_acorn_tambourine_seashell' in camelCase?,magazineAcornTambourineSeashell
+718,Give the camelCase version of 'mailbox'.,mailbox
+719,Format 'mandarin_sailboat_thyme' as a camelCase identifier.,mandarinSailboatThyme
+720,Turn the snake_case phrase 'mandarin_willow_parrot_cucumber' into camelCase.,mandarinWillowParrotCucumber
+721,Convert 'mandarin_windmill_spoon' to camelCase.,mandarinWindmillSpoon
+722,Rewrite the string 'maple_fox_gemstone' in camelCase format.,mapleFoxGemstone
+723,Transform 'marigold_citrus' into camelCase style.,marigoldCitrus
+724,What is the camelCase equivalent of 'marigold_ukulele_temple'?,marigoldUkuleleTemple
+725,Please convert 'marmalade' to camelCase.,marmalade
+726,Change 'marmalade_walnut_planet_spoon' into camelCase.,marmaladeWalnutPlanetSpoon
+727,How would you write 'marmalade_yarn' in camelCase?,marmaladeYarn
+728,Give the camelCase version of 'meadow_marigold_pineapple'.,meadowMarigoldPineapple
+729,Format 'meadow_raspberry_swimming_sesame' as a camelCase identifier.,meadowRaspberrySwimmingSesame
+730,Turn the snake_case phrase 'meadow_sherbet_thimble_photograph' into camelCase.,meadowSherbetThimblePhotograph
+731,Convert 'melon' to camelCase.,melon
+732,Rewrite the string 'melon_unicorn' in camelCase format.,melonUnicorn
+733,Transform 'mermaid_ribbon' into camelCase style.,mermaidRibbon
+734,What is the camelCase equivalent of 'mermaid_tomato_fern'?,mermaidTomatoFern
+735,Please convert 'microphone_dandelion_hotel_sidewalk' to camelCase.,microphoneDandelionHotelSidewalk
+736,Change 'milk_bucket_doughnut_reef' into camelCase.,milkBucketDoughnutReef
+737,How would you write 'moon' in camelCase?,moon
+738,Give the camelCase version of 'moon_earth'.,moonEarth
+739,Format 'moon_kettle' as a camelCase identifier.,moonKettle
+740,Turn the snake_case phrase 'morning_paper' into camelCase.,morningPaper
+741,Convert 'morning_rabbit' to camelCase.,morningRabbit
+742,Rewrite the string 'mosaic_bottle' in camelCase format.,mosaicBottle
+743,Transform 'mountain_bottle_apricot' into camelCase style.,mountainBottleApricot
+744,What is the camelCase equivalent of 'mountain_cactus'?,mountainCactus
+745,Please convert 'mountain_sweater_tapestry' to camelCase.,mountainSweaterTapestry
+746,Change 'muffin_avocado_lizard' into camelCase.,muffinAvocadoLizard
+747,How would you write 'muffin_dragon_coconut' in camelCase?,muffinDragonCoconut
+748,Give the camelCase version of 'muffin_tunnel_dandelion'.,muffinTunnelDandelion
+749,Format 'mushroom' as a camelCase identifier.,mushroom
+750,Turn the snake_case phrase 'mushroom_cabbage_tulip' into camelCase.,mushroomCabbageTulip
+751,Convert 'mushroom_kiwi_feather' to camelCase.,mushroomKiwiFeather
+752,Rewrite the string 'mushroom_lighthouse' in camelCase format.,mushroomLighthouse
+753,Transform 'necklace_sidewalk' into camelCase style.,necklaceSidewalk
+754,What is the camelCase equivalent of 'nectarine_dragon'?,nectarineDragon
+755,Please convert 'noodle_dragon_sailboat' to camelCase.,noodleDragonSailboat
+756,Change 'notebook_radish_nutmeg' into camelCase.,notebookRadishNutmeg
+757,How would you write 'nutmeg_cave_wardrobe_sapphire' in camelCase?,nutmegCaveWardrobeSapphire
+758,Give the camelCase version of 'nutmeg_cocoa'.,nutmegCocoa
+759,Format 'nutmeg_flamingo' as a camelCase identifier.,nutmegFlamingo
+760,Turn the snake_case phrase 'nutmeg_lion' into camelCase.,nutmegLion
+761,Convert 'oak' to camelCase.,oak
+762,Rewrite the string 'oak_comet' in camelCase format.,oakComet
+763,Transform 'oatmeal_drawer' into camelCase style.,oatmealDrawer
+764,What is the camelCase equivalent of 'oatmeal_marmalade'?,oatmealMarmalade
+765,Please convert 'oatmeal_persimmon' to camelCase.,oatmealPersimmon
+766,Change 'oatmeal_waterfall_jelly' into camelCase.,oatmealWaterfallJelly
+767,How would you write 'olive_reef' in camelCase?,oliveReef
+768,Give the camelCase version of 'onion_hotel'.,onionHotel
+769,Format 'opera_apricot' as a camelCase identifier.,operaApricot
+770,Turn the snake_case phrase 'opera_cheese_motorcycle' into camelCase.,operaCheeseMotorcycle
+771,Convert 'opera_dragon_bridge' to camelCase.,operaDragonBridge
+772,Rewrite the string 'orchid' in camelCase format.,orchid
+773,Transform 'orchid_carpet' into camelCase style.,orchidCarpet
+774,What is the camelCase equivalent of 'orchid_chocolate_wardrobe_rabbit'?,orchidChocolateWardrobeRabbit
+775,Please convert 'orchid_citrus' to camelCase.,orchidCitrus
+776,Change 'orchid_tomato_vineyard_parsley' into camelCase.,orchidTomatoVineyardParsley
+777,How would you write 'origami' in camelCase?,origami
+778,Give the camelCase version of 'origami_grass_flute'.,origamiGrassFlute
+779,Format 'otter_basil' as a camelCase identifier.,otterBasil
+780,Turn the snake_case phrase 'otter_spoon' into camelCase.,otterSpoon
+781,Convert 'oyster' to camelCase.,oyster
+782,Rewrite the string 'oyster_morning' in camelCase format.,oysterMorning
+783,Transform 'pancake_apricot_melon_oyster' into camelCase style.,pancakeApricotMelonOyster
+784,What is the camelCase equivalent of 'pancake_lipstick'?,pancakeLipstick
+785,Please convert 'paper_camel' to camelCase.,paperCamel
+786,Change 'paper_oatmeal' into camelCase.,paperOatmeal
+787,How would you write 'paper_reef_toothbrush' in camelCase?,paperReefToothbrush
+788,Give the camelCase version of 'parrot_penguin_sherbet'.,parrotPenguinSherbet
+789,Format 'parrot_smoothie_honey' as a camelCase identifier.,parrotSmoothieHoney
+790,Turn the snake_case phrase 'parsley_engine_horizon_pumpkin' into camelCase.,parsleyEngineHorizonPumpkin
+791,Convert 'parsley_thimble_radish' to camelCase.,parsleyThimbleRadish
+792,Rewrite the string 'peacock_kiwi_jelly' in camelCase format.,peacockKiwiJelly
+793,Transform 'peanut_lion_tablet' into camelCase style.,peanutLionTablet
+794,What is the camelCase equivalent of 'peanut_lizard'?,peanutLizard
+795,Please convert 'pear_muffin_fox_lion' to camelCase.,pearMuffinFoxLion
+796,Change 'pebble' into camelCase.,pebble
+797,How would you write 'pebble_rocket_pancake_garlic' in camelCase?,pebbleRocketPancakeGarlic
+798,Give the camelCase version of 'penguin'.,penguin
+799,Format 'penguin_broccoli' as a camelCase identifier.,penguinBroccoli
+800,Turn the snake_case phrase 'penguin_cocoa_nectarine' into camelCase.,penguinCocoaNectarine
+801,Convert 'penguin_fig_spoon' to camelCase.,penguinFigSpoon
+802,Rewrite the string 'penguin_mushroom' in camelCase format.,penguinMushroom
+803,Transform 'penguin_sesame_sparrow' into camelCase style.,penguinSesameSparrow
+804,What is the camelCase equivalent of 'pepper_rocket'?,pepperRocket
+805,Please convert 'perfume' to camelCase.,perfume
+806,Change 'perfume_fern' into camelCase.,perfumeFern
+807,How would you write 'perfume_kale' in camelCase?,perfumeKale
+808,Give the camelCase version of 'perfume_mermaid'.,perfumeMermaid
+809,Format 'perfume_motorcycle_kettle_spinach' as a camelCase identifier.,perfumeMotorcycleKettleSpinach
+810,Turn the snake_case phrase 'perfume_raspberry' into camelCase.,perfumeRaspberry
+811,Convert 'persimmon_lagoon' to camelCase.,persimmonLagoon
+812,Rewrite the string 'persimmon_skillet' in camelCase format.,persimmonSkillet
+813,Transform 'persimmon_spinach' into camelCase style.,persimmonSpinach
+814,What is the camelCase equivalent of 'photograph_peacock'?,photographPeacock
+815,Please convert 'pickle_muffin' to camelCase.,pickleMuffin
+816,Change 'pickle_tapestry_pillow' into camelCase.,pickleTapestryPillow
+817,How would you write 'pillow' in camelCase?,pillow
+818,Give the camelCase version of 'pillow_broccoli_pocket'.,pillowBroccoliPocket
+819,Format 'pillow_bucket_shampoo' as a camelCase identifier.,pillowBucketShampoo
+820,Turn the snake_case phrase 'pillow_mermaid_spoon' into camelCase.,pillowMermaidSpoon
+821,Convert 'pineapple' to camelCase.,pineapple
+822,Rewrite the string 'pineapple_earth' in camelCase format.,pineappleEarth
+823,Transform 'pineapple_meadow_opera' into camelCase style.,pineappleMeadowOpera
+824,What is the camelCase equivalent of 'pineapple_quilt'?,pineappleQuilt
+825,Please convert 'pineapple_radish_pumpkin' to camelCase.,pineappleRadishPumpkin
+826,Change 'planet_chocolate' into camelCase.,planetChocolate
+827,How would you write 'plum_blueberry' in camelCase?,plumBlueberry
+828,Give the camelCase version of 'popcorn_evening_rocket_bucket'.,popcornEveningRocketBucket
+829,Format 'popcorn_salad' as a camelCase identifier.,popcornSalad
+830,Turn the snake_case phrase 'popcorn_sunflower_fox' into camelCase.,popcornSunflowerFox
+831,Convert 'popcorn_sweater' to camelCase.,popcornSweater
+832,Rewrite the string 'popcorn_walnut' in camelCase format.,popcornWalnut
+833,Transform 'pottery_tapestry_iceberg_yogurt' into camelCase style.,potteryTapestryIcebergYogurt
+834,What is the camelCase equivalent of 'pottery_ukulele_dragon'?,potteryUkuleleDragon
+835,Please convert 'pottery_vase_daisy_hammock' to camelCase.,potteryVaseDaisyHammock
+836,Change 'pottery_waterfall' into camelCase.,potteryWaterfall
+837,How would you write 'praline_button' in camelCase?,pralineButton
+838,Give the camelCase version of 'praline_island'.,pralineIsland
+839,Format 'praline_radish_recipe_basil' as a camelCase identifier.,pralineRadishRecipeBasil
+840,Turn the snake_case phrase 'pumpkin_oyster_fountain' into camelCase.,pumpkinOysterFountain
+841,Convert 'pumpkin_whistle_vineyard' to camelCase.,pumpkinWhistleVineyard
+842,Rewrite the string 'puzzle' in camelCase format.,puzzle
+843,Transform 'puzzle_suitcase_fig_lobster' into camelCase style.,puzzleSuitcaseFigLobster
+844,What is the camelCase equivalent of 'quilt_berry'?,quiltBerry
+845,Please convert 'quilt_cherry' to camelCase.,quiltCherry
+846,Change 'quilt_pillow' into camelCase.,quiltPillow
+847,How would you write 'rabbit_echo' in camelCase?,rabbitEcho
+848,Give the camelCase version of 'radish_caramel_fig'.,radishCaramelFig
+849,Format 'raspberry_iceberg_ink_parrot' as a camelCase identifier.,raspberryIcebergInkParrot
+850,Turn the snake_case phrase 'raspberry_jasmine' into camelCase.,raspberryJasmine
+851,Convert 'raspberry_lizard' to camelCase.,raspberryLizard
+852,Rewrite the string 'raspberry_noodle_marmalade' in camelCase format.,raspberryNoodleMarmalade
+853,Transform 'recipe_tulip' into camelCase style.,recipeTulip
+854,What is the camelCase equivalent of 'ribbon_library'?,ribbonLibrary
+855,Please convert 'ribbon_microphone_honey' to camelCase.,ribbonMicrophoneHoney
+856,Change 'robin_chocolate' into camelCase.,robinChocolate
+857,How would you write 'robin_crown_pear' in camelCase?,robinCrownPear
+858,Give the camelCase version of 'robin_olive_jewel_squirrel'.,robinOliveJewelSquirrel
+859,Format 'robin_plum' as a camelCase identifier.,robinPlum
+860,Turn the snake_case phrase 'rocket_waterfall_sunflower' into camelCase.,rocketWaterfallSunflower
+861,Convert 'rose_mailbox_olive' to camelCase.,roseMailboxOlive
+862,Rewrite the string 'rose_teacup' in camelCase format.,roseTeacup
+863,Transform 'rosemary_village_opera' into camelCase style.,rosemaryVillageOpera
+864,What is the camelCase equivalent of 'sailboat'?,sailboat
+865,Please convert 'sailboat_biscuit_sweater' to camelCase.,sailboatBiscuitSweater
+866,Change 'sailboat_jasmine_igloo' into camelCase.,sailboatJasmineIgloo
+867,How would you write 'salad_evening_sunflower' in camelCase?,saladEveningSunflower
+868,Give the camelCase version of 'salad_morning_apricot'.,saladMorningApricot
+869,Format 'scarf_pillow_denim' as a camelCase identifier.,scarfPillowDenim
+870,Turn the snake_case phrase 'scooter' into camelCase.,scooter
+871,Convert 'scooter_squirrel' to camelCase.,scooterSquirrel
+872,Rewrite the string 'scooter_thyme' in camelCase format.,scooterThyme
+873,Transform 'scooter_turtle' into camelCase style.,scooterTurtle
+874,What is the camelCase equivalent of 'seagull_crown'?,seagullCrown
+875,Please convert 'seagull_motorcycle' to camelCase.,seagullMotorcycle
+876,Change 'seashell' into camelCase.,seashell
+877,How would you write 'seashell_sailboat' in camelCase?,seashellSailboat
+878,Give the camelCase version of 'sesame_origami_magnet'.,sesameOrigamiMagnet
+879,Format 'sesame_popcorn' as a camelCase identifier.,sesamePopcorn
+880,Turn the snake_case phrase 'sesame_toast_rose' into camelCase.,sesameToastRose
+881,Convert 'shadow_penguin_ink' to camelCase.,shadowPenguinInk
+882,Rewrite the string 'shampoo_broccoli' in camelCase format.,shampooBroccoli
+883,Transform 'shampoo_hammock_cactus' into camelCase style.,shampooHammockCactus
+884,What is the camelCase equivalent of 'shampoo_twilight'?,shampooTwilight
+885,Please convert 'sidewalk' to camelCase.,sidewalk
+886,Change 'sidewalk_drawer' into camelCase.,sidewalkDrawer
+887,How would you write 'sidewalk_meadow' in camelCase?,sidewalkMeadow
+888,Give the camelCase version of 'silk'.,silk
+889,Format 'silk_envelope' as a camelCase identifier.,silkEnvelope
+890,Turn the snake_case phrase 'silk_mermaid_robin' into camelCase.,silkMermaidRobin
+891,Convert 'silk_pottery' to camelCase.,silkPottery
+892,Rewrite the string 'silk_telescope' in camelCase format.,silkTelescope
+893,Transform 'skillet_lime' into camelCase style.,skilletLime
+894,What is the camelCase equivalent of 'skillet_notebook_linen'?,skilletNotebookLinen
+895,Please convert 'skillet_walnut' to camelCase.,skilletWalnut
+896,Change 'slippers_morning' into camelCase.,slippersMorning
+897,How would you write 'slippers_mosaic' in camelCase?,slippersMosaic
+898,Give the camelCase version of 'slippers_origami'.,slippersOrigami
+899,Format 'smoothie_leaf' as a camelCase identifier.,smoothieLeaf
+900,Turn the snake_case phrase 'smoothie_nutmeg' into camelCase.,smoothieNutmeg
+901,Convert 'sparrow' to camelCase.,sparrow
+902,Rewrite the string 'sparrow_marigold_scooter' in camelCase format.,sparrowMarigoldScooter
+903,Transform 'sparrow_oak_notebook' into camelCase style.,sparrowOakNotebook
+904,What is the camelCase equivalent of 'spoon_swimming_rabbit'?,spoonSwimmingRabbit
+905,Please convert 'spoon_tomato' to camelCase.,spoonTomato
+906,Change 'stadium_carrot_shampoo_zebra' into camelCase.,stadiumCarrotShampooZebra
+907,How would you write 'stadium_ginger_penguin_unicorn' in camelCase?,stadiumGingerPenguinUnicorn
+908,Give the camelCase version of 'strawberry_pumpkin_maple_chestnut'.,strawberryPumpkinMapleChestnut
+909,Format 'strawberry_puzzle_parsley' as a camelCase identifier.,strawberryPuzzleParsley
+910,Turn the snake_case phrase 'strawberry_whistle' into camelCase.,strawberryWhistle
+911,Convert 'suitcase_citrus_turtle_crown' to camelCase.,suitcaseCitrusTurtleCrown
+912,Rewrite the string 'suitcase_garlic_reef' in camelCase format.,suitcaseGarlicReef
+913,Transform 'suitcase_pepper_sidewalk' into camelCase style.,suitcasePepperSidewalk
+914,What is the camelCase equivalent of 'sunflower'?,sunflower
+915,Please convert 'sunflower_whistle' to camelCase.,sunflowerWhistle
+916,Change 'sweater' into camelCase.,sweater
+917,How would you write 'sweater_spoon_kale' in camelCase?,sweaterSpoonKale
+918,Give the camelCase version of 'swimming_mountain_bottle'.,swimmingMountainBottle
+919,Format 'tablet_shampoo_carpet' as a camelCase identifier.,tabletShampooCarpet
+920,Turn the snake_case phrase 'tambourine' into camelCase.,tambourine
+921,Convert 'tambourine_emerald_morning_umbrella' to camelCase.,tambourineEmeraldMorningUmbrella
+922,Rewrite the string 'tambourine_shampoo' in camelCase format.,tambourineShampoo
+923,Transform 'tapestry_sesame_lagoon' into camelCase style.,tapestrySesameLagoon
+924,What is the camelCase equivalent of 'tapestry_smoothie_salad'?,tapestrySmoothieSalad
+925,Please convert 'tapestry_zephyr_sweater' to camelCase.,tapestryZephyrSweater
+926,Change 'teacup' into camelCase.,teacup
+927,How would you write 'teacup_grapefruit' in camelCase?,teacupGrapefruit
+928,Give the camelCase version of 'teacup_olive'.,teacupOlive
+929,Format 'telescope_lizard_lime' as a camelCase identifier.,telescopeLizardLime
+930,Turn the snake_case phrase 'telescope_microphone_walnut' into camelCase.,telescopeMicrophoneWalnut
+931,Convert 'telescope_sesame_flamingo_fox' to camelCase.,telescopeSesameFlamingoFox
+932,Rewrite the string 'telescope_unicorn' in camelCase format.,telescopeUnicorn
+933,Transform 'temple_dolphin_mandarin_sidewalk' into camelCase style.,templeDolphinMandarinSidewalk
+934,What is the camelCase equivalent of 'temple_plum'?,templePlum
+935,Please convert 'thimble_lobster' to camelCase.,thimbleLobster
+936,Change 'thimble_magnet' into camelCase.,thimbleMagnet
+937,How would you write 'thimble_pineapple_apricot' in camelCase?,thimblePineappleApricot
+938,Give the camelCase version of 'thimble_sparrow'.,thimbleSparrow
+939,Format 'thyme_almond_sherbet' as a camelCase identifier.,thymeAlmondSherbet
+940,Turn the snake_case phrase 'thyme_galaxy' into camelCase.,thymeGalaxy
+941,Convert 'thyme_rose' to camelCase.,thymeRose
+942,Rewrite the string 'thyme_sesame_flamingo' in camelCase format.,thymeSesameFlamingo
+943,Transform 'toast_ink_strawberry' into camelCase style.,toastInkStrawberry
+944,What is the camelCase equivalent of 'tomato_thyme'?,tomatoThyme
+945,Please convert 'toothbrush_cherry_creek' to camelCase.,toothbrushCherryCreek
+946,Change 'toothbrush_parrot_lagoon' into camelCase.,toothbrushParrotLagoon
+947,How would you write 'tunnel_marigold_citrus' in camelCase?,tunnelMarigoldCitrus
+948,Give the camelCase version of 'tunnel_praline'.,tunnelPraline
+949,Format 'tunnel_waterfall_flute_paper' as a camelCase identifier.,tunnelWaterfallFlutePaper
+950,Turn the snake_case phrase 'turtle_engine_caramel' into camelCase.,turtleEngineCaramel
+951,Convert 'twilight_cave_rose_basil' to camelCase.,twilightCaveRoseBasil
+952,Rewrite the string 'twilight_rosemary' in camelCase format.,twilightRosemary
+953,Transform 'twilight_ukulele' into camelCase style.,twilightUkulele
+954,What is the camelCase equivalent of 'ukulele_lime_button'?,ukuleleLimeButton
+955,Please convert 'ukulele_slippers' to camelCase.,ukuleleSlippers
+956,Change 'umbrella_radish' into camelCase.,umbrellaRadish
+957,How would you write 'umbrella_saffron_squirrel' in camelCase?,umbrellaSaffronSquirrel
+958,Give the camelCase version of 'unicorn_pumpkin'.,unicornPumpkin
+959,Format 'unicorn_umbrella' as a camelCase identifier.,unicornUmbrella
+960,Turn the snake_case phrase 'valley_carpet_echo' into camelCase.,valleyCarpetEcho
+961,Convert 'valley_crown_slippers' to camelCase.,valleyCrownSlippers
+962,Rewrite the string 'valley_mushroom' in camelCase format.,valleyMushroom
+963,Transform 'valley_nectarine' into camelCase style.,valleyNectarine
+964,What is the camelCase equivalent of 'vase_carpet_yarn'?,vaseCarpetYarn
+965,Please convert 'vase_toothbrush' to camelCase.,vaseToothbrush
+966,Change 'velvet_acorn_lilac_meadow' into camelCase.,velvetAcornLilacMeadow
+967,How would you write 'velvet_cheese' in camelCase?,velvetCheese
+968,Give the camelCase version of 'velvet_cocoa'.,velvetCocoa
+969,Format 'velvet_linen' as a camelCase identifier.,velvetLinen
+970,Turn the snake_case phrase 'velvet_magazine_engine' into camelCase.,velvetMagazineEngine
+971,Convert 'velvet_onion' to camelCase.,velvetOnion
+972,Rewrite the string 'village_watermelon' in camelCase format.,villageWatermelon
+973,Transform 'vineyard_lilac_scooter' into camelCase style.,vineyardLilacScooter
+974,What is the camelCase equivalent of 'vineyard_yarn'?,vineyardYarn
+975,Please convert 'watermelon_clover' to camelCase.,watermelonClover
+976,Change 'watermelon_marmalade_globe' into camelCase.,watermelonMarmaladeGlobe
+977,How would you write 'watermelon_mitten' in camelCase?,watermelonMitten
+978,Give the camelCase version of 'watermelon_olive_pebble'.,watermelonOlivePebble
+979,Format 'whistle_book_fox' as a camelCase identifier.,whistleBookFox
+980,Turn the snake_case phrase 'whistle_quilt_penguin' into camelCase.,whistleQuiltPenguin
+981,Convert 'whistle_wardrobe' to camelCase.,whistleWardrobe
+982,Rewrite the string 'willow_persimmon' in camelCase format.,willowPersimmon
+983,Transform 'windmill_morning' into camelCase style.,windmillMorning
+984,What is the camelCase equivalent of 'windmill_oak'?,windmillOak
+985,Please convert 'windmill_oyster_lipstick' to camelCase.,windmillOysterLipstick
+986,Change 'windmill_sunflower_puzzle' into camelCase.,windmillSunflowerPuzzle
+987,How would you write 'windmill_wardrobe' in camelCase?,windmillWardrobe
+988,Give the camelCase version of 'window'.,window
+989,Format 'window_oatmeal' as a camelCase identifier.,windowOatmeal
+990,Turn the snake_case phrase 'window_tomato' into camelCase.,windowTomato
+991,Convert 'yarn' to camelCase.,yarn
+992,Rewrite the string 'yarn_bubble' in camelCase format.,yarnBubble
+993,Transform 'yarn_seashell' into camelCase style.,yarnSeashell
+994,What is the camelCase equivalent of 'yarn_telescope'?,yarnTelescope
+995,Please convert 'yogurt' to camelCase.,yogurt
+996,Change 'yogurt_horizon_marmalade_garlic' into camelCase.,yogurtHorizonMarmaladeGarlic
+997,How would you write 'yogurt_telescope_lizard_bottle' in camelCase?,yogurtTelescopeLizardBottle
+998,Give the camelCase version of 'zebra'.,zebra
+999,Format 'zebra_galaxy' as a camelCase identifier.,zebraGalaxy
+1000,Turn the snake_case phrase 'zebra_penguin_mailbox_coral' into camelCase.,zebraPenguinMailboxCoral
